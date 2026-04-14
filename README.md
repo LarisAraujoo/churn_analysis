@@ -12,7 +12,7 @@ Meu objetivo foi entender por que os clientes estão cancelando o serviço e o q
 
 ---
 
-###  Análise
+### Análise
 
 Comecei explorando os dados e encontrei uma taxa de churn de aproximadamente **26,5%**, o que já indica um ponto de atenção.
 
